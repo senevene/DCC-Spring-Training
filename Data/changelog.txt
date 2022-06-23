@@ -13,3 +13,6 @@ Methods:
 - cleaned data: changed "unknown""no" "none" to blank values & removed "probably"
 - transposed columns and rows
 
+#Added 2022-6-23
+- CC-BY-4.0 License 
+- Version 1.3.0
